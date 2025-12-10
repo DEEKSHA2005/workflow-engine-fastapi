@@ -51,7 +51,8 @@ Each run stores detailed logs showing which nodes executed and in what order.
 
 ## Sample Workflow: Code Review Agent
 
-Steps:
+### Steps:
+
 1)Extract functions
 
 2)Check complexity
@@ -144,5 +145,6 @@ This project fulfills all required components of the assignment:
 - Loops + branching
 - Demonstrative real example
 - Clear and modular folder structure
+
 
 
