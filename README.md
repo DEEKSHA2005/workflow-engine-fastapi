@@ -53,9 +53,13 @@ Each run stores detailed logs showing which nodes executed and in what order.
 
 Steps:
 1)Extract functions
+
 2)Check complexity
+
 3)Detect issues
+
 4)Suggest improvements
+
 5)Loop until quality_score >= 8
 
 ---
@@ -140,4 +144,5 @@ This project fulfills all required components of the assignment:
 - Loops + branching
 - Demonstrative real example
 - Clear and modular folder structure
+
 
