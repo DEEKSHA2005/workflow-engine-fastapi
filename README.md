@@ -14,7 +14,7 @@ This project demonstrates:
 ## Project Structure
 
     app/
-        **init**.py
+        init.py
         main.py
         engine.py
         workflow.py
@@ -140,3 +140,4 @@ This project fulfills all required components of the assignment:
 - Loops + branching
 - Demonstrative real example
 - Clear and modular folder structure
+
